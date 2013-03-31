@@ -1,0 +1,756 @@
+(dp0
+S'buildDestination'
+p1
+VC:\u005cUsers\u005cowner\u005cDesktop\u005cstory\u005cdungeon.html
+p2
+sS'saveDestination'
+p3
+S'C:\\Users\\owner\\Desktop\\story\\dungeon.tws'
+p4
+sS'target'
+p5
+S'sugarcane'
+p6
+sS'storyPanel'
+p7
+(dp8
+S'widgets'
+p9
+(lp10
+(dp11
+S'selected'
+p12
+I00
+sS'pos'
+p13
+(lp14
+I10
+aI10
+asS'passage'
+p15
+(itiddlywiki
+Tiddler
+p16
+(dp17
+S'text'
+p18
+VThe heavy door slams shut behind you, plunging you into darkness. "I immediately regret this decision."\u000a\u000aFumbling in the dark you light your lamp and examine this, the first chamber of the dungeon. A dungeon some damn fool said they would explore to retrieve a magic sword. All in the name of winning the hand of a young lady who seemed terribly important at the time.\u000a\u000aYou begin to wander what you saw in her. Then you remember that she is terrifically pretty. Hair like spun gold. Smells like daisies. And she has a pompous father who thinks you're a drunken ass completely unworthy of her. That might have something to do with it.\u000a\u000aSteeling your resolve you look around and see a dirt floor bordered by stone walls. The roof is supported by wooden beams. Nothing fancy. The silence is punctuated by the drip of water.\u000a\u000aThe room is empty and featureless save for a single passage leading down, down into the dark...\u000a\u000a[[Enter the passage|entry hallway]]
+p19
+sS'tags'
+p20
+(lp21
+sS'created'
+p22
+ctime
+struct_time
+p23
+((I2013
+I3
+I10
+I17
+I18
+I33
+I6
+I69
+I0
+tp24
+(dp25
+tp26
+Rp27
+sS'modified'
+p28
+g27
+sS'title'
+p29
+VStart
+p30
+sbsa(dp31
+g12
+I00
+sg13
+(lp32
+I398
+aI71
+asg15
+(itiddlywiki
+Tiddler
+p33
+(dp34
+g18
+VThe bleak decore continues as you make your way down the first of many passages. Your flickering lamp casting eery shadows ahead. This place seems strangely familiar as if you've been here before perhaps in a dream.\u000a\u000aAs you move forward the floor changes from dirt to paved with stone. "Looks like someone didn't have the cash to do the whole thing." You smirk at your own joke.\u000a\u000aThe corridor goes on and on, unchanging. It's dark dreary descent apparently never ending.\u000a\u000aFinally, after so long you began to think this was some sort of endless corridor to nowhere practical joke, you reach a fork. There are two ways to go but each looks the same as the other. You look, listen, you even smell but there doesn't seem to be anything to separate one from the other.\u000a\u000a[[Take the left|entry left]] or [[Take the right|entry right]]
+p35
+sg20
+(lp36
+sg22
+g23
+((I2013
+I3
+I10
+I17
+I31
+I8
+I6
+I69
+I0
+tp37
+(dp38
+tp39
+Rp40
+sg28
+g40
+sg29
+Ventry hallway
+p41
+sbsa(dp42
+g12
+I00
+sg13
+(lp43
+I368
+aI284
+asg15
+(itiddlywiki
+Tiddler
+p44
+(dp45
+g18
+V"Bugger it, left it is." You set off down the left passeway trying to look more confident than you are. Your feet hurt from the walking and nothings even happened yet.\u000a\u000aYou stop briefly to sit down and take of your boots. After only a few minutes you decide to move on. Partly because your feet feel a little better. Partly because the long dark echoey passageway is rather creepy if you sit around thinking about it. "Eyes on the prize my man. Your darling princess won't wait forever."\u000a\u000aPlodding onwards the narrow passage eventually opens into a large column filled chamber, so large the far end and the sides are not visible. The arched roof is hidden in the darkness high above. Curiously it is lit by dozens of flaming torches kept alight by some unknown person. Or thing. "There's an unpleasant thought. Why was I cursed with such a vibrant imagination?"\u000a\u000aYou extinguish your lamp. No need to be wasting your own oil. You never know how long you'll be down here.\u000a\u000aCreeping forward, keeping to the shadows as much as possible, you hear the echo of voices.\u000a\u000a[[Investigate the voices|investigate voices]] or [[try and avoid them|avoid voices]]
+p46
+sg20
+(lp47
+sg22
+g23
+((I2013
+I3
+I10
+I17
+I39
+I57
+I6
+I69
+I0
+tp48
+(dp49
+tp50
+Rp51
+sg28
+g51
+sg29
+Ventry left
+p52
+sbsa(dp53
+g12
+I00
+sg13
+(lp54
+I584
+aI272
+asg15
+(itiddlywiki
+Tiddler
+p55
+(dp56
+g18
+V"What the hell, I'm going right." And you set off down the right passeway demonstrating your well practiced over confident swagger.\u000a\u000aAs you stride down the passage you comment to yourself. "We could have eloped but oh no, her future husband has to prove himself worthy. Whatever that means. It's a silly tradition if you ask me. Why, if I ever..."\u000a\u000a"Whinging. That's helpful." A critical voice rings out from the darkness. "You might want to take a look at the committment you're making to this young lady."\u000a\u000aYou stop abruptly. "Who said that? Is someone there?"\u000a\u000a"Me of course!" Spinning to your left you see him, it, whatever. A face, human sized but apparently made of stone and set into the damp stone wall. Were he human you would say he was maybe forty years old. His stone moustache strikes you as oddly hilarious. He peers angrilly back at you.\u000a\u000a"Why hello young man. I have a question to ask you. It's my job you see. While I might moonlight as a relationship counsellor when the need arises I do have other business to take care of. So, here it is. Ready? Fire or water?"\u000a\u000a"What?"\u000a\u000a"Fire or water?! It's simple question. Why does everyone have so much trouble with this. There was a gentleman here not two days ago who..."\u000a\u000a"Ok ok! Give me a moment..."\u000a\u000a[[fire]] or [[water]]
+p57
+sg20
+(lp58
+sg22
+g23
+((I2013
+I3
+I10
+I17
+I40
+I6
+I6
+I69
+I0
+tp59
+(dp60
+tp61
+Rp62
+sg28
+g62
+sg29
+Ventry right
+p63
+sbsa(dp64
+g12
+I00
+sg13
+(lp65
+I97
+aI191
+asg15
+(itiddlywiki
+Tiddler
+p66
+(dp67
+g18
+VYour lifeless body crumples to the floor. An empty shell of the man you were.\u000a\u000aNow look what you've done! You've gone and got yourself killed. And you had so many plans for the future. A wife. Kids. A modest income with which to obtain a modest mortgage on a modest home. But now, all that day dreaming is for nought.\u000a\u000aLuckily, reincarnation is available to those who want it.\u000a\u000a[[Rebirth me|entry hallway]]
+p68
+sg20
+(lp69
+sg22
+g23
+((I2013
+I3
+I10
+I17
+I45
+I6
+I6
+I69
+I0
+tp70
+(dp71
+tp72
+Rp73
+sg28
+g73
+sg29
+VDeath
+p74
+sbsa(dp75
+g12
+I00
+sg13
+(lp76
+I34
+aI363
+asg15
+(itiddlywiki
+Tiddler
+p77
+(dp78
+g18
+V"If there's people down here it makes sense to find out what they're up to I guess."\u000a\u000aTaking a deep breath you edge carefully forward pressing yourself against each column before dashing to the next. Slowly the voices come into focus as you edge nearer. You peer around your column, eager to glimpse who is speaking. They sound like they're just on the other side of this column...\u000a\u000aSuddenly, the conversation is drowned out by the crackle of electricity right behind you. "Hello, what do we have here?" a voice exclaims, so close behind you that you detect the scent of roast chicken with... is it mustard? Yes, definitely mustard.\u000a\u000aSpinning around you [[confront your attacker|Death]].
+p79
+sg20
+(lp80
+sg22
+g23
+((I2013
+I3
+I10
+I17
+I56
+I4
+I6
+I69
+I0
+tp81
+(dp82
+tp83
+Rp84
+sg28
+g84
+sg29
+Vinvestigate voices
+p85
+sbsa(dp86
+g12
+I00
+sg13
+(lp87
+I251
+aI488
+asg15
+(itiddlywiki
+Tiddler
+p88
+(dp89
+g18
+VDiscretion being the better part of valour you decide it best to loop around the voices. "Live to snoop another day, that's what I say."\u000a\u000aWhat with the voices apparently being somewhere in front of you you make your way to your right. Moving from column to column you breath easier as the voices become ever most distant.\u000a\u000a"The things a man does for love" you think to yourself. "Well, maybe not love. Love is a very strong word. The things a man does for very strong affection." That strikes you as more accurate but rather less poetic.\u000a\u000aEventually you reach the chamber wall. It is stone, a little damp, and much like those you've seen before. Following it you soon come to a large but regretably sealed door. Upon it is written "speak and enter".\u000a\u000aChoose your words carefully.\u000a\u000a[[Open up... please?|open please]] or [[Forsoothe I beseach you! Open up!|open beseach]]
+p90
+sg20
+(lp91
+sg22
+g23
+((I2013
+I3
+I10
+I17
+I56
+I15
+I6
+I69
+I0
+tp92
+(dp93
+tp94
+Rp95
+sg28
+g95
+sg29
+Vavoid voices
+p96
+sbsa(dp97
+g12
+I00
+sg13
+(lp98
+I130
+aI696
+asg15
+(itiddlywiki
+Tiddler
+p99
+(dp100
+S'text'
+p101
+VA thunderous voice booms forth. "At last someone with some manners. You have a great day. Best of luck to you." With that the mighty doors swing open allowing you to pass.\u000a\u000aThe doors reveal another dark and forboding corridor. There's not much variation in dungeons as it turns out. You begin to wonder if you should brought some food. For all you know this maze of damp dark stone corridors could go on forever. You could be down here for a very long time.\u000a\u000aDespite your growing unease this corridor leads you not to yet another corridor but instead to a large cavern filled with water. There is no sound. A dim light is visible across the great lake of silent still dark water.\u000a\u000a[[Wade in and start swimming|swim lake]] or [[Hang out and see what happens|wait by lake]]
+p102
+sS'tags'
+p103
+(lp104
+sS'created'
+p105
+g23
+((I2013
+I3
+I11
+I18
+I25
+I55
+I0
+I70
+I0
+tp106
+(dp107
+tp108
+Rp109
+sS'modified'
+p110
+g109
+sS'title'
+p111
+Vopen please
+p112
+sbsa(dp113
+g12
+I00
+sg13
+(lp114
+I376
+aI692
+asg15
+(itiddlywiki
+Tiddler
+p115
+(dp116
+g101
+V"Who the bloody hell do you think you're talking to?" A voice booms forth although you're not quite sure where from.\u000a\u000a"All day I sit here, nothing better to do than opening and shutting doors. It's an outrageous waste of talent. Someone's pet dog gets a little fried during teleportation and you're on door duty ever after. I could be doing so much more. Look, I'll show you. I'm going to give you another chance. When we meet again you mind your manners."\u000a\u000a[[Now, away with you!|entry hallway]]
+p117
+sg103
+(lp118
+sg105
+g23
+((I2013
+I3
+I11
+I18
+I26
+I9
+I0
+I70
+I0
+tp119
+(dp120
+tp121
+Rp122
+sg110
+g122
+sg111
+Vopen beseach
+p123
+sbsa(dp124
+g12
+I00
+sg13
+(lp125
+I166
+aI888
+asg15
+(itiddlywiki
+Tiddler
+p126
+(dp127
+S'text'
+p128
+VAfter one or two second thoughts you plunge into the black water which, as it turns out, is only waist deep. It is however bitterly cold. You progress quickly towards the far side.\u000a\u000aAt one point you hear and then see a small boat, apparently a ferry running back and forth. It's no trouble for you to hide in the darkness. Only the chattering of your teeth threatens to reveal you as you squat motionless in the freezing cold water.\u000a\u000aSafely reaching the other side, you do your best to wring out your sodden clothing. After a few star jumps and and a bit of jogging back and forth you're as warm as you're going to get so you head on your way.\u000a\u000a[[Continue down yet another darkened passageway|passage after lake]]
+p129
+sS'tags'
+p130
+(lp131
+sS'created'
+p132
+g23
+((I2013
+I3
+I11
+I21
+I46
+I50
+I0
+I70
+I0
+tp133
+(dp134
+tp135
+Rp136
+sS'modified'
+p137
+g136
+sS'title'
+p138
+Vswim lake
+p139
+sbsa(dp140
+g12
+I00
+sg13
+(lp141
+I382
+aI896
+asg15
+(itiddlywiki
+Tiddler
+p142
+(dp143
+g128
+VThere doesn't seem to be any way around the lake. Going into the water doesn't seem wise. There could be anything in there.\u000a\u000aJust as you're getting used to the idea of turning back and telling your beloved that she needs to learn to love you for you the door in the wall behind you swings open.\u000a\u000a"Ain't fair them treating us like this. I got a wife at home and all. That's three weeks in a row I've had to come in Saturday. Unpaid overtime my foot. The union will be hearing about this."\u000a\u000aTwo men march briskly through the door. You cower back in the shadows. For the moment the two men are distracted by their conversation.\u000a\u000a"Hold up, where's my time sheet? Blast, I've left it."\u000a\u000aAfter some more grumbling and searching of pockets the two return the way they came. This seems like a good opportunity to make your exit.\u000a\u000a[[Start swimming|swim lake]]
+p144
+sg130
+(lp145
+sg132
+g23
+((I2013
+I3
+I11
+I21
+I47
+I2
+I0
+I70
+I0
+tp146
+(dp147
+tp148
+Rp149
+sg137
+g149
+sg138
+Vwait by lake
+p150
+sbsa(dp151
+g12
+I00
+sg13
+(lp152
+I663
+aI1594
+asg15
+(itiddlywiki
+Tiddler
+p153
+(dp154
+g128
+V"Holy crap!" There it is! The magic sword that brought you in to this hell spawned hole in the ground. It sits atop a raised platform, the blade shimmering in the flickering light.\u000a\u000aThe room itself is the usual dark stone dusty desolation that you now know so well however you barely notice it over the glory of your triumph. \u000a\u000aGently plucking it from it's resting place you feel the perfect balance of the cold steel. The blade sings gently as you wave it about, impaling imaginary attackers.\u000a\u000a"So she's too good for me is she? I'll regret this drunken bet will I?"\u000a\u000a"Now, how do I get out of here?"\u000a\u000aWell done. The End.
+p155
+sg130
+(lp156
+sg132
+g23
+((I2013
+I3
+I11
+I22
+I1
+I35
+I0
+I70
+I0
+tp157
+(dp158
+tp159
+Rp160
+sg137
+g160
+sg138
+VSuccess
+p161
+sbsa(dp162
+g12
+I00
+sg13
+(lp163
+I181
+aI1121
+asg15
+(itiddlywiki
+Tiddler
+p164
+(dp165
+g128
+VThankfully this passageway is different to those you have already passed through. Perhaps you are getting somewhere. The left wall is blank as far as you can see. The right wall has heavy wooden doors spaced evenly. The row of doors extends further than you can see.\u000a\u000aMaking your way forward you pass door after door. There's no change. Wall on the left. Door after door on the right. "I guess I should try one of these."\u000a\u000aYou gingerly try the handle well aware that any noise could bring unwelcome and unfriendly attention in these echoey halls. Thankfully the door handle turns easily and the door cracks open.\u000a\u000aThe room is completely dark at first. As you swing the door open light from the corridor spills in. It reveals a room filled with dusty chests. A worn dusty tapestry is hung on the back wall. It's color long since lost to the ages. Otherwise the room is the same as the rest of this miserable place.\u000a\u000aTrying one of the dusty chests you discover that they are, in fact, dusty locked chests.\u000a\u000a[[Force open a chest|force chest]] or [[try another room|another room]]
+p166
+sg130
+(lp167
+sg132
+g23
+((I2013
+I3
+I11
+I22
+I16
+I2
+I0
+I70
+I0
+tp168
+(dp169
+tp170
+Rp171
+sg137
+g171
+sg138
+Vpassage after lake
+p172
+sbsa(dp173
+g12
+I01
+sg13
+(lp174
+I855
+aI10
+asg15
+(itiddlywiki
+Tiddler
+p175
+(dp176
+g128
+VA Dungeon Story
+p177
+sg130
+(lp178
+sg132
+g23
+((I2013
+I3
+I11
+I22
+I21
+I25
+I0
+I70
+I0
+tp179
+(dp180
+tp181
+Rp182
+sg137
+g182
+sg138
+VStoryTitle
+p183
+sbsa(dp184
+g12
+I00
+sg13
+(lp185
+I1001
+aI8
+asg15
+(itiddlywiki
+Tiddler
+p186
+(dp187
+g128
+VAndrew Davis
+p188
+sg130
+(lp189
+sg132
+g23
+((I2013
+I3
+I11
+I22
+I21
+I52
+I0
+I70
+I0
+tp190
+(dp191
+tp192
+Rp193
+sg137
+g193
+sg138
+VStoryAuthor
+p194
+sbsa(dp195
+g12
+I00
+sg13
+(lp196
+I21
+aI1336
+asg15
+(itiddlywiki
+Tiddler
+p197
+(dp198
+S'text'
+p199
+VAfter briefly digging through your bag for a suitable tool you jimmy open the chest. It comes open with surprising ease. "Let's see what we have then."\u000a\u000aAs you lift the lid you hear a strange click hiss noise. A cloud of greenish gas erupts from the chest. You reel back gasping. "Crap. That can't be good."\u000a\u000aA wave of nausea and dizziness sweeps over you.\u000a\u000a[[I don't feel so...|Death]]
+p200
+sS'tags'
+p201
+(lp202
+sS'created'
+p203
+g23
+((I2013
+I3
+I18
+I16
+I19
+I10
+I0
+I77
+I0
+tp204
+(dp205
+tp206
+Rp207
+sS'modified'
+p208
+g207
+sS'title'
+p209
+Vforce chest
+p210
+sbsa(dp211
+g12
+I00
+sg13
+(lp212
+I254
+aI1332
+asg15
+(itiddlywiki
+Tiddler
+p213
+(dp214
+g199
+V"Better leave this lot alone." Quickly moving on you return to the corridor and close the door as quietly as you can.\u000a\u000aAs you meander along the corridor idly selecting your next door you hear voices and footsteps echoing towards you. Whoever it is they're coming towards you and fast.\u000a\u000aYou're standing in an empty corridor. Nowhere to hide. Without a moment to lose you yank open the nearest door and leap into the darkened room. You can only cross your fingers that it's not boobytrapped.\u000a\u000aThe voices and footsteps grow louder and louder until they are right outside your door. You hold your breath. Fortunately they pass right by your door without so much as a pause. As they fade into the distance you begin to breath again.\u000a\u000a"Time to light the old lamp and take a look around."\u000a\u000a[[Shed some light|Success]]
+p215
+sg201
+(lp216
+sg203
+g23
+((I2013
+I3
+I18
+I16
+I21
+I1
+I0
+I77
+I0
+tp217
+(dp218
+tp219
+Rp220
+sg208
+g220
+sg209
+Vanother room
+p221
+sbsa(dp222
+g12
+I00
+sg13
+(lp223
+I513
+aI513
+asg15
+(itiddlywiki
+Tiddler
+p224
+(dp225
+S'text'
+p226
+V"Fire" you announce.\u000a\u000a"Fire? Hah, what a dumbass! Who picks fire in an enchanted dungeon? Well, apart from you and that gentleman two days ago?"\u000a\u000aBefore you can move, the floor vanishes from beneath you and you plunge down into a cavern [[filled with the fire you requested|Death]].
+p227
+sS'tags'
+p228
+(lp229
+sS'created'
+p230
+g23
+((I2013
+I3
+I26
+I11
+I48
+I6
+I1
+I85
+I0
+tp231
+(dp232
+tp233
+Rp234
+sS'modified'
+p235
+g234
+sS'title'
+p236
+Vfire
+p237
+sbsa(dp238
+g12
+I00
+sg13
+(lp239
+I734
+aI522
+asg15
+(itiddlywiki
+Tiddler
+p240
+(dp241
+g226
+V"Wise choice good sir. Be on your way."\u000a\u000aThere's a flash of light and suddenly you're not in a corridor. As if by magic you are instead standing in a large cavern filled with black water. A vast lake stretching as far as you can see.\u000a\u000a"Wow. That was weird."\u000a\u000aThe great lake's surface is calm and undisturbed. The cavern is so quiet you can hear only your own breathing and pounding heart.\u000a\u000aThere's a large door in the wall behind you but it's sealed tight. The dark water doesn't seem particularly inviting so you [[explore the shore line|wait by lake]]
+p242
+sg228
+(lp243
+sg230
+g23
+((I2013
+I3
+I26
+I11
+I59
+I57
+I1
+I85
+I0
+tp244
+(dp245
+tp246
+Rp247
+sg235
+g247
+sg236
+Vwater
+p248
+sbsasS'scale'
+p249
+I1
+ss.
